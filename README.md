@@ -1,7 +1,7 @@
 
-# Todo App
+# Final Swift Project
 
-This is a simple Todo app built with Swift.
+This is a final project built with Swift.
 
 ## Features
 
@@ -18,12 +18,17 @@ This is a simple Todo app built with Swift.
 ## Screenshots
 
 - Main Page
+
     ![Main Page](images/main.png)
 - Local News Page
+
     ![Local News Page](images/news.png)
 - Map Page
+
     ![Map Page](images/map.png)
 - Weather Page
+
     ![Weather Page](images/weather.png)
 - History Page
+
     ![History Page](images/history.png)
